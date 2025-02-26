@@ -4,7 +4,30 @@
     box-sizing: border-box;
 }
 
+h1{
+    text-align: center;
+    margin: 15px;
+    background-color: hsla(215, 81%, 59%, 0.986);
+}
+
 img{
     width: 700px;
     height: 400px;
+}
+
+main {
+    text-align: center;
+}
+
+h2 {
+    margin: 15px;
+}
+
+p{
+    margin: 15px;
+}
+
+aside{
+    text-align: center;
+    margin: 15px;
 }
